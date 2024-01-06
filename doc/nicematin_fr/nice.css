@@ -1,0 +1,147 @@
+A {
+	TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: red
+}
+.csoustitre {
+	FONT: bold 10pt Arial, Helvetica, sans-serif; COLOR: #485398; TEXT-ALIGN: left
+}
+.ctexte {
+	FONT: 10pt Arial, Helvetica, sans-serif; COLOR: #000000; TEXT-ALIGN: left
+}
+.csignature {
+	FONT: italic 9pt Arial, Helvetica, sans-serif; COLOR: #666666; TEXT-ALIGN: right
+}
+.ctitre {
+	FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: #1a1d72; TEXT-ALIGN: left
+}
+A.ctitre:hover {
+	COLOR: #000000! important
+}
+.coldtextetitre {
+	FONT: 9pt Arial, Helvetica, sans-serif; COLOR: #000000; TEXT-ALIGN: left
+}
+A.coldtextetitre:hover {
+	COLOR: #000099! important
+}
+.coldtitrerubrique {
+	FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: #661818; TEXT-ALIGN: left
+}
+.coldtextegras {
+	FONT: bold 9pt Arial, Helvetica, sans-serif; COLOR: #000000; TEXT-ALIGN: left
+}
+A.coldtextegras:hover {
+	COLOR: #ffffff! important
+}
+.cpromotion {
+	FONT: bold 13pt Arial, Helvetica, sans-serif; COLOR: #7b8cff; TEXT-ALIGN: center
+}
+.ctitrepromotion {
+	FONT: bold 11pt Arial, Helvetica, sans-serif; COLOR: #006b9f; TEXT-ALIGN: center
+}
+.cpartenaire {
+	FONT: bold 13pt Arial, Helvetica, sans-serif; COLOR: #5c65b3; TEXT-ALIGN: center
+}
+.ccredits {
+	FONT: bold 11pt Arial, Helvetica, sans-serif; COLOR: #8ba2df; TEXT-ALIGN: center
+}
+A.ccredits:hover {
+	COLOR: #00ffff! important
+}
+.barrebas {
+	FONT: 8pt Arial, Helvetica, sans-serif; COLOR: #ffffff; TEXT-ALIGN: center
+}
+A.barrebas:hover {
+	COLOR: #ffcc00! important
+}
+.ctextepartenaire {
+	FONT: 9pt Arial, Helvetica, sans-serif; COLOR: #000000; TEXT-ALIGN: center
+}
+.heure {
+	FONT: bold 10pt Arial, Helvetica, sans-serif; COLOR: #ffcc00; TEXT-ALIGN: center
+}
+.meteo {
+	FONT: 9pt Arial, Helvetica, sans-serif; COLOR: #ffffff; TEXT-ALIGN: left
+}
+.tableau {
+	FONT: 9pt Arial, Helvetica, sans-serif; COLOR: #f7de10
+}
+A.tableau:hover {
+	COLOR: #ffffff! important
+}
+.loustic {
+	FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: #006666; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+.lire {
+	FONT: 7pt Arial, Helvetica, sans-serif; COLOR: #631818; TEXT-ALIGN: left
+}
+.ctitrerubrique {
+	FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: #ffcc00; TEXT-ALIGN: left
+}
+.ctextepromotion {
+	FONT: 9pt Arial, Helvetica, sans-serif; COLOR: #000000; TEXT-ALIGN: left
+}
+.cdroit {
+	FONT: 8pt Arial, Helvetica, sans-serif; COLOR: #333333; TEXT-ALIGN: center
+}
+.emails {
+	FONT: 9pt Arial, Helvetica, sans-serif; COLOR: #000066; TEXT-ALIGN: left
+}
+.titreavert {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #1a1d72; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.texteavert {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #1a1d72; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.texteavertgras {
+	FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: #1a1d72; TEXT-ALIGN: justify
+}
+.tableauecriveznous {
+	FONT: 9pt Arial, Helvetica, sans-serif; COLOR: #631818; TEXT-ALIGN: center
+}
+.meteoville {
+	FONT: 9pt Arial, Helvetica, sans-serif; COLOR: #ffffff; TEXT-ALIGN: left
+}
+.liensNM {
+	FONT: 9pt Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.grostitre {
+	FONT: 18pt Arial, Helvetica, sans-serif; COLOR: #000033; TEXT-ALIGN: center
+}
+.emailsautres {
+	FONT: 8pt Arial, Helvetica, sans-serif; COLOR: #000066; TEXT-ALIGN: center
+}
+.titreautres {
+	FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: #006666; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.ctexteCentre {
+	FONT: 9pt Arial, Helvetica, sans-serif; COLOR: #666666; TEXT-ALIGN: center
+}
+.ctexteCentreGras {
+	FONT: bold 9pt Arial, Helvetica, sans-serif; COLOR: #666666; TEXT-ALIGN: center
+}
+.texteavertgrascentre {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #1a1d72; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.bourse {
+	FONT: 12pt Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; TEXT-ALIGN: center
+}
+.ctitrepromotionAutre {
+	FONT: bold 12pt Arial, Helvetica, sans-serif; COLOR: #3333ff; TEXT-ALIGN: center
+}
+.legende {
+	FONT: 8pt Arial, Helvetica, sans-serif; COLOR: #333333; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+.csignaturephoto {
+	FONT: italic 8pt Arial, Helvetica, sans-serif; COLOR: #666666; TEXT-ALIGN: right
+}
+.ctetiere {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #1a1d72; FONT-STYLE: italic; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.csurtitre {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; COLOR: #666666; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center; FONT-VARIANT: normal
+}
+.textecredits {
+	FONT-SIZE: 10pt; COLOR: #1a1d72; LINE-HEIGHT: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
